@@ -11,7 +11,7 @@
 ![datamodel](https://github.com/jbiju400/nyctlc/assets/141533280/7c7625ff-4b5a-4858-a71d-2fa9498b7d03)
 
 ## Dashboard
-![Screenshot 2023-11-30 194921](https://github.com/jbiju400/nyctlc/assets/141533280/9535ba47-5f35-43c4-bbf6-6a4106aa62fa)
-[NYC_TLC_UBER_Data_Analytics (2).pdf](https://github.com/jbiju400/nyctlc/files/13589261/NYC_TLC_UBER_Data_Analytics.2.pdf)
+![Screenshot 2023-12-06 122316](https://github.com/jbiju400/nyctlc/assets/141533280/96d96a2c-5f1f-4a46-b787-b276626ecc6a)
+[NYC_TLC_Data_Analytics.pdf](https://github.com/jbiju400/nyctlc/files/13589284/NYC_TLC_Data_Analytics.pdf)
 
 
